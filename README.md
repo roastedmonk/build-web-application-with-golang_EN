@@ -2,23 +2,22 @@
 =======================================
 ### ***Translator Comments***
 
-This is an English version of [《Go Web编程》](https://github.com/astaxie/build-web-application-with-golang), which original version was written by [AstaXie](https://github.com/astaxie) and translated by [Unknown](https://github.com/Unknwon).
+This is an English version of [《Go Web编程》](https://github.com/astaxie/build-web-application-with-golang), which original version was written by [AstaXie](https://github.com/astaxie) and translated by [Unknown](https://github.com/Unknwon) and [Larry Battle](https://github.com/LarryBattle).
 
 This book is about how to build web applications in Go. In the first few chapters of the book, the author will review some basic knowledge about Go. However, for an optimal reading experience, you should have a basic understanding of the Go language and the concept of a web application. If you are completely new to programming, this book is not intended to provide sufficient introductory material to get started.
 
 If anything is unclear due to wording or language issues, feel free to ask me to write a better translation.
 
+### Estimate Finish Time
+
+Nov 30, 2013
+
 ### Review Progress
 
 9.1 [CSRF attacks](eBook/09.1.md)
 
-### Todo
-
-- Review translationg for chapter 9 - 14
-
 ###Acknowledgments for translation help
 
-- [Larry Battle](https://github.com/LarryBattle)
 - [matalangilbert](https://github.com/matalangilbert)
 - [nightlyone](https://github.com/nightlyone)
 - [sbinet](https://github.com/sbinet)
