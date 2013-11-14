@@ -39,9 +39,9 @@ I believe the purpose of studying is sharing with others. The happiest thing in 
 
 If you like this book, you can ask your Chinese friends to follow this [link](https://me.alipay.com/astaxie) donate the original author, help him write more books with better, more useful, and more interesting content.
 
-### Exchanging Learning Go and Chinese
+### Exchanging Learning Go
 
-If you know what is QQ, join the group 259316004. If not, follow this [link](http://download.imqq.com/download.shtml) get more details. Also, you can join our [forum](http://mygolang.com) with Chinese only.
+If you know what is QQ, join the group 259316004. If not, follow this [link](http://download.imqq.com/download.shtml) get more details. Also, you can join our [forum](http://bbs.beego.me).
 
 ### Acknowledgments
 
