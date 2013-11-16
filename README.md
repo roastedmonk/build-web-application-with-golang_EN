@@ -8,14 +8,6 @@ This book is about how to build web applications in Go. In the first few chapter
 
 If anything is unclear due to wording or language issues, feel free to ask me to write a better translation.
 
-### Estimate Finish Time
-
-Nov 30, 2013
-
-### Review Progress
-
-11.1 [Error handling](eBook/11.1.md)
-
 ###Acknowledgments for translation help
 
 - [matalangilbert](https://github.com/matalangilbert)
