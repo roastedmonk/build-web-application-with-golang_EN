@@ -2,7 +2,7 @@
 =======================================
 ### ***Translator Comments***
 
-This is an English version of [《Go Web编程》](https://github.com/astaxie/build-web-application-with-golang), which original version was written by [AstaXie](https://github.com/astaxie) and translated by [Unknown](https://github.com/Unknwon) and [Larry Battle](https://github.com/LarryBattle).
+This is an English version of [《Go Web编程》](https://github.com/astaxie/build-web-application-with-golang), the original version was written by [AstaXie](https://github.com/astaxie) and translated by [Unknown](https://github.com/Unknwon) and [Larry Battle](https://github.com/LarryBattle).
 
 This book is about how to build web applications in Go. In the first few chapters of the book, the author will review some basic knowledge about Go. However, for an optimal reading experience, you should have a basic understanding of the Go language and the concept of a web application. If you are completely new to programming, this book is not intended to provide sufficient introductory material to get started.
 
@@ -20,7 +20,7 @@ If anything is unclear due to wording or language issues, feel free to ask me to
 
 ### Purpose
 
-Because I'm interested in web application development, I used my free time to write this book as open source version. It doesn't mean that I have a very good ability to build web applications; I would like to share what I've done with Go in building web applications.
+Because I'm interested in web application development, I used my free time to write this book as an open source version. It doesn't mean that I have a very good ability to build web applications; I would like to share what I've done with Go in building web applications.
 
 - For those of you who are working with PHP/Python/Ruby, you will learn how to build a web application with Go.
 - For those of you who are working with C/C++, you will know how the web works.
@@ -33,11 +33,11 @@ If you like this book, you can ask your Chinese friends to follow this [link](ht
 
 ### Exchanging Learning Go
 
-If you know what is QQ, join the group 259316004. If not, follow this [link](http://download.imqq.com/download.shtml) get more details. Also, you can join our [forum](http://bbs.beego.me).
+If you know what is QQ, join the group 259316004. If not, follow this [link](http://download.imqq.com/download.shtml) to get more details. Also, you can join our [forum](http://bbs.beego.me).
 
 ### Acknowledgments
 
-First, I have to thanks to people who are the members of Golang-China in QQ group 102319854, they are all very nice and helpful. Then, I need to thanks to following people who give great help when I was writing this book.
+First, I have to thank the people who are members of Golang-China in QQ group 102319854, they are all very nice and helpful. Then, I need to thank the following people who gave great help when I was writing this book.
 
  - [四月份平民 April Citizen](https://plus.google.com/110445767383269817959) (review code)
  - [洪瑞琦 Hong Ruiqi](https://github.com/hongruiqi) (review code)
