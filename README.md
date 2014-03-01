@@ -1,7 +1,7 @@
 ***Build Web Application with Golang***
 ======================================
 
-[Download PDF](https://github.com/Unknwon/build-web-application-with-golang_EN/raw/master/build-web-application-with-golang_EN.pdf.zip)
+[Download PDF](https://drive.google.com/file/d/0B2GBHFyTK2N8TzM4dEtIWjBJdEk/edit?usp=sharing)
 
 ### ***Translator Comments***
 
